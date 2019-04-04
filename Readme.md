@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Даниил Хорошавин](https://up.htmlacademy.ru/adaptive/16/user/951053).
-* Наставник: `Неизвестно`.
+* Студент: [Даниил Хорошавин](https://github.com/DiGreenka).
+* Наставник: [Максим Теплов](https://github.com/maxdygaf).
 
 ---
 
